@@ -1,0 +1,1024 @@
+patient_id,disease,age,gender,adm_type,bpm,body_temp(°F),resp_rate,oxy_sat,days_in_icu,death
+1000,Traumatic Brain Injury,58,1,urgent,120,98.2,7,88,8,1
+1001,Stroke,40,1,urgent,45,98,14,88,1,1
+1002,Ruptured Brain Aneurysm,69,0,elective,123,98.6,11,95,9,1
+1003,Ruptured Brain Aneurysm,22,0,emergency,60,97.8,7,89,7,1
+1004,Sepsis,56,1,emergency,116,100.5,13,93,4,1
+1005,Sepsis,80,0,elective,127,100.9,13,88,9,1
+1006,Stroke,50,1,emergency,103,100.6,12,93,15,0
+1007,Sepsis,51,1,urgent,48,98.1,15,99,3,0
+1008,Sepsis,31,1,urgent,41,100.2,12,98,5,0
+1009,Sepsis,33,0,urgent,109,98.2,11,87,13,0
+1010,Traumatic Brain Injury,79,1,urgent,53,98.2,11,85,10,1
+1011,Ruptured Brain Aneurysm,33,0,urgent,59,100.2,15,91,7,0
+1012,Shock,41,0,emergency,115,100.1,6,96,13,0
+1013,Shock,18,1,emergency,53,100.1,6,94,9,0
+1014,Ruptured Brain Aneurysm,55,0,elective,107,100.2,10,94,12,1
+1016,Shock,66,0,elective,135,98.6,11,90,15,1
+1018,Sepsis,47,1,urgent,132,100.1,9,88,7,0
+1019,Ruptured Brain Aneurysm,33,0,urgent,121,98.3,11,91,8,1
+1020,Sepsis,50,0,elective,113,98.8,12,92,1,1
+1021,Shock,46,1,elective,45,97.9,11,93,1,1
+1023,Ruptured Brain Aneurysm,64,0,urgent,41,97.9,7,100,14,0
+1024,Ruptured Brain Aneurysm,54,1,urgent,51,98.6,10,98,7,1
+1025,Ruptured Brain Aneurysm,74,1,urgent,124,99.7,7,94,0,1
+1026,Ruptured Brain Aneurysm,61,0,elective,128,98.9,9,97,12,1
+1027,Shock,30,0,urgent,42,99.7,12,88,4,0
+1028,Ruptured Brain Aneurysm,67,1,emergency,60,98.7,15,85,11,0
+1029,Sepsis,32,0,elective,129,99.6,7,98,11,0
+1030,Traumatic Brain Injury,63,1,urgent,109,99.8,14,100,2,1
+1031,Stroke,76,1,elective,114,98.2,14,97,4,0
+1032,Traumatic Brain Injury,45,1,elective,121,98.9,15,92,4,1
+1033,Shock,23,1,urgent,48,99,15,91,5,1
+1034,Shock,36,1,emergency,121,100.6,14,85,3,0
+1035,Shock,47,0,emergency,51,98,13,87,5,0
+1036,Stroke,42,1,urgent,135,98.9,7,93,9,1
+1038,Stroke,33,1,elective,125,99.3,9,89,5,1
+1039,Traumatic Brain Injury,37,1,urgent,103,98.9,13,89,11,1
+1040,Sepsis,56,0,urgent,59,99.3,10,91,1,1
+1041,Shock,55,1,elective,112,99.5,10,85,7,0
+1042,Shock,56,1,emergency,45,100.1,12,87,6,0
+1043,Sepsis,62,0,elective,136,99,6,92,0,1
+1044,Sepsis,34,0,elective,49,100,14,94,0,0
+1045,Traumatic Brain Injury,36,0,elective,107,99.8,9,89,6,1
+1047,Stroke,67,1,urgent,128,100.5,14,96,2,0
+1048,Sepsis,54,1,emergency,134,100.3,12,87,10,0
+1049,Traumatic Brain Injury,68,0,emergency,116,100.5,13,87,8,0
+1050,Traumatic Brain Injury,45,0,emergency,116,100,9,89,11,0
+1051,Traumatic Brain Injury,64,1,emergency,108,97.9,14,95,8,1
+1053,Ruptured Brain Aneurysm,67,0,elective,116,99.9,6,94,0,1
+1054,Sepsis,50,0,emergency,56,98.6,8,98,12,0
+1055,Sepsis,69,1,emergency,52,98.2,14,96,2,1
+1056,Ruptured Brain Aneurysm,74,1,urgent,44,98.8,9,91,8,1
+1057,Sepsis,37,1,urgent,114,100.4,8,98,0,1
+1058,Stroke,63,1,urgent,139,99.4,13,87,14,1
+1059,Shock,21,1,emergency,127,100.3,15,92,15,1
+1060,Sepsis,70,1,elective,104,98.1,15,90,3,0
+1061,Traumatic Brain Injury,26,1,urgent,41,99.8,9,97,15,0
+1062,Traumatic Brain Injury,19,1,emergency,59,98.1,6,89,1,1
+1063,Shock,37,1,emergency,110,97.9,13,100,2,0
+1064,Sepsis,45,1,urgent,140,98.3,9,93,10,1
+1065,Stroke,22,0,urgent,49,97.8,9,97,8,1
+1066,Sepsis,73,0,emergency,59,98.4,13,85,5,0
+1067,Stroke,58,1,elective,50,98.3,6,89,5,1
+1068,Traumatic Brain Injury,67,0,elective,137,99.7,8,91,10,0
+1069,Sepsis,57,1,elective,46,99.7,6,94,3,1
+1070,Stroke,50,1,urgent,49,97.7,9,86,13,0
+1071,Sepsis,26,1,emergency,45,100.5,11,89,10,1
+1072,Shock,51,0,emergency,45,99.1,9,85,13,0
+1073,Ruptured Brain Aneurysm,37,0,urgent,51,100.6,7,93,8,1
+1074,Traumatic Brain Injury,51,1,elective,54,97.9,11,97,9,1
+1075,Stroke,67,1,urgent,52,99.2,7,92,10,0
+1076,Shock,78,1,emergency,127,100.6,10,89,12,0
+1077,Sepsis,41,0,elective,115,99.6,8,85,0,1
+1078,Stroke,74,0,urgent,52,98.5,11,85,15,0
+1079,Stroke,48,1,emergency,47,98.4,12,88,9,0
+1080,Sepsis,64,0,urgent,48,100.5,8,85,4,1
+1081,Traumatic Brain Injury,25,1,urgent,127,100.5,6,98,15,0
+1082,Traumatic Brain Injury,50,1,elective,107,100.2,10,88,14,1
+1083,Shock,66,0,elective,60,100.1,7,95,1,0
+1084,Sepsis,40,0,emergency,108,98.1,11,90,13,0
+1085,Stroke,55,1,urgent,44,99.1,11,100,1,0
+1086,Traumatic Brain Injury,35,1,elective,114,97.9,13,85,4,0
+1087,Traumatic Brain Injury,39,1,emergency,43,100.2,14,85,13,1
+1088,Shock,21,0,urgent,51,98.6,7,86,8,1
+1089,Shock,79,1,emergency,116,98.2,11,97,7,0
+1091,Traumatic Brain Injury,43,0,elective,45,100.5,7,91,0,0
+1093,Stroke,68,0,elective,59,99.3,13,94,7,1
+1094,Traumatic Brain Injury,23,1,urgent,50,98.9,7,97,11,0
+1095,Stroke,66,0,emergency,51,99.9,9,96,7,0
+1096,Traumatic Brain Injury,42,0,emergency,55,100.4,7,88,12,1
+1097,Ruptured Brain Aneurysm,48,1,urgent,59,100.9,13,97,4,0
+1098,Stroke,68,0,elective,40,100.2,10,95,14,0
+1099,Shock,76,0,emergency,49,98.1,15,97,5,1
+1101,Stroke,61,0,emergency,50,100,10,86,0,1
+1102,Traumatic Brain Injury,53,0,elective,56,100.3,11,86,0,0
+1104,Sepsis,35,1,elective,111,99.4,15,86,7,1
+1105,Sepsis,78,1,urgent,60,99.9,7,90,15,1
+1106,Sepsis,24,1,urgent,135,98.7,14,89,3,1
+1107,Sepsis,34,0,emergency,45,97.9,6,90,8,0
+1108,Ruptured Brain Aneurysm,72,1,urgent,57,98.9,6,89,12,1
+1109,Traumatic Brain Injury,71,0,emergency,43,99.9,12,98,8,1
+1110,Stroke,20,0,emergency,106,97.8,13,90,1,1
+1111,Traumatic Brain Injury,72,0,elective,52,98.6,13,85,6,0
+1112,Ruptured Brain Aneurysm,79,1,urgent,56,100.5,7,93,8,1
+1113,Ruptured Brain Aneurysm,22,0,urgent,50,100,13,85,13,0
+1114,Traumatic Brain Injury,34,1,elective,41,98.9,8,86,2,0
+1115,Traumatic Brain Injury,79,0,elective,108,100.7,14,90,9,1
+1116,Stroke,51,1,elective,54,99.8,12,95,2,1
+1117,Ruptured Brain Aneurysm,25,0,elective,127,98.2,10,99,1,0
+1118,Ruptured Brain Aneurysm,78,1,elective,118,98.1,15,88,1,0
+1119,Traumatic Brain Injury,24,1,urgent,48,99.8,14,96,4,1
+1121,Ruptured Brain Aneurysm,42,0,urgent,45,99.5,11,91,5,1
+1122,Sepsis,35,0,emergency,44,98.1,12,94,13,1
+1123,Stroke,19,1,elective,60,98.2,8,88,0,0
+1124,Ruptured Brain Aneurysm,21,0,emergency,59,98.3,13,98,3,1
+1125,Ruptured Brain Aneurysm,39,1,urgent,49,98.8,6,100,5,1
+1127,Ruptured Brain Aneurysm,75,1,emergency,112,98.4,14,91,3,0
+1128,Shock,55,1,emergency,42,100.4,12,91,7,0
+1129,Ruptured Brain Aneurysm,73,1,elective,57,99.1,8,98,15,1
+1130,Stroke,72,1,elective,50,98.1,8,90,13,0
+1132,Stroke,52,1,urgent,47,98.8,7,100,15,1
+1133,Ruptured Brain Aneurysm,59,0,urgent,58,99.9,9,95,7,1
+1134,Sepsis,54,0,elective,119,100.7,9,100,15,0
+1135,Ruptured Brain Aneurysm,46,1,urgent,114,98.2,10,97,13,0
+1136,Traumatic Brain Injury,75,0,emergency,117,100.7,6,89,2,0
+1137,Stroke,21,0,urgent,44,100.1,9,89,12,1
+1138,Traumatic Brain Injury,32,0,urgent,58,99.8,8,97,9,1
+1139,Traumatic Brain Injury,78,0,emergency,117,100.8,7,97,4,1
+1140,Sepsis,76,1,elective,102,98.5,10,88,11,1
+1141,Shock,31,1,urgent,102,100.1,13,88,13,0
+1142,Stroke,78,1,urgent,108,98.4,12,95,4,1
+1143,Sepsis,53,1,emergency,111,99,7,95,2,0
+1144,Shock,61,0,urgent,100,100.9,13,93,15,0
+1145,Stroke,48,0,elective,118,100.8,11,87,13,1
+1146,Sepsis,74,1,emergency,108,99.3,8,94,8,0
+1147,Shock,31,0,elective,117,98.8,10,86,7,0
+1148,Traumatic Brain Injury,44,1,elective,43,100.1,9,91,13,1
+1149,Traumatic Brain Injury,41,0,elective,117,98.6,13,94,10,1
+1150,Traumatic Brain Injury,32,0,urgent,118,100.5,12,89,4,1
+1151,Traumatic Brain Injury,58,1,elective,47,98.1,12,92,7,1
+1152,Sepsis,56,0,emergency,111,100.5,11,91,12,1
+1153,Shock,46,1,emergency,55,100.5,7,100,6,0
+1154,Ruptured Brain Aneurysm,54,1,elective,114,100.6,14,85,12,0
+1155,Traumatic Brain Injury,31,0,elective,42,98.9,7,98,15,0
+1156,Traumatic Brain Injury,44,1,elective,46,98.7,8,88,3,0
+1157,Sepsis,31,0,elective,140,100.8,13,88,11,1
+1158,Stroke,38,1,emergency,59,98,8,95,10,0
+1160,Ruptured Brain Aneurysm,35,0,emergency,120,98.9,8,87,3,0
+1161,Sepsis,36,0,urgent,102,97.9,7,85,9,0
+1162,Shock,53,1,urgent,138,98.3,15,91,0,0
+1163,Sepsis,65,1,elective,41,100.5,6,86,9,1
+1164,Stroke,57,1,emergency,40,98.1,9,95,8,1
+1165,Ruptured Brain Aneurysm,77,0,urgent,113,100.3,7,85,7,1
+1166,Ruptured Brain Aneurysm,69,0,urgent,43,100.3,15,93,11,0
+1167,Traumatic Brain Injury,48,0,urgent,121,99.6,11,91,7,1
+1168,Sepsis,71,1,elective,137,98.5,7,86,0,1
+1169,Sepsis,37,0,urgent,55,99.8,8,91,4,1
+1170,Traumatic Brain Injury,20,0,urgent,58,97.8,11,92,14,0
+1171,Traumatic Brain Injury,70,0,urgent,54,98.9,8,90,11,1
+1172,Shock,47,1,emergency,48,98.8,15,94,8,1
+1173,Sepsis,41,0,elective,56,98.8,8,97,5,0
+1174,Ruptured Brain Aneurysm,48,1,emergency,137,97.8,7,87,8,1
+1175,Traumatic Brain Injury,42,1,urgent,122,98.7,15,95,13,0
+1176,Traumatic Brain Injury,64,1,urgent,49,99.2,10,87,15,1
+1177,Shock,62,0,urgent,54,98.4,9,93,10,0
+1178,Sepsis,57,1,emergency,127,97.9,15,95,0,1
+1179,Traumatic Brain Injury,73,1,emergency,140,97.7,15,95,12,0
+1180,Shock,24,0,urgent,56,98.1,11,98,4,1
+1181,Traumatic Brain Injury,40,1,emergency,120,100.6,6,85,5,0
+1182,Shock,67,1,elective,135,98.1,9,95,8,1
+1184,Sepsis,78,0,urgent,110,98.1,9,89,0,1
+1185,Stroke,77,0,urgent,44,100.3,6,99,2,0
+1186,Ruptured Brain Aneurysm,38,1,emergency,56,100.7,7,96,7,1
+1187,Traumatic Brain Injury,52,1,elective,49,100,12,96,7,0
+1188,Traumatic Brain Injury,65,1,emergency,54,98.6,11,100,7,0
+1189,Ruptured Brain Aneurysm,60,0,emergency,116,99.2,14,93,14,1
+1191,Shock,21,0,urgent,109,99,6,99,11,1
+1192,Shock,71,1,urgent,130,99.5,15,93,9,0
+1193,Stroke,79,1,elective,59,97.8,15,88,12,0
+1194,Sepsis,43,1,elective,124,100.7,8,97,6,0
+1195,Stroke,72,0,emergency,43,98.2,6,95,6,0
+1197,Stroke,28,0,urgent,58,98,9,94,11,1
+1198,Ruptured Brain Aneurysm,80,1,urgent,133,100.8,10,85,5,0
+1199,Shock,77,1,emergency,57,99.1,12,88,11,0
+1200,Ruptured Brain Aneurysm,45,0,urgent,139,98.1,11,90,12,1
+1201,Sepsis,39,0,elective,114,99.8,15,98,9,0
+1202,Stroke,39,1,emergency,58,98.2,11,94,0,1
+1203,Ruptured Brain Aneurysm,34,1,emergency,49,98.1,8,92,12,0
+1204,Traumatic Brain Injury,29,1,elective,121,100.1,9,98,10,0
+1205,Sepsis,63,1,urgent,55,100,8,91,8,0
+1206,Shock,20,1,urgent,42,98.4,9,88,12,0
+1207,Stroke,60,1,urgent,40,99.9,6,89,8,1
+1208,Sepsis,40,1,elective,140,99.3,8,88,13,0
+1209,Shock,52,1,elective,136,99.8,8,94,8,1
+1210,Stroke,50,0,urgent,45,99,13,91,1,0
+1211,Stroke,48,0,urgent,59,97.9,13,88,1,0
+1212,Stroke,29,0,emergency,45,100.1,8,85,3,0
+1213,Shock,80,0,elective,51,100.2,14,91,5,1
+1214,Stroke,66,1,urgent,103,98.7,10,96,7,0
+1215,Sepsis,23,1,emergency,51,98.4,12,96,8,1
+1217,Sepsis,78,1,emergency,127,98.3,12,86,10,0
+1218,Ruptured Brain Aneurysm,80,1,urgent,55,98.8,15,87,13,0
+1219,Stroke,72,1,emergency,126,100,11,90,6,0
+1220,Ruptured Brain Aneurysm,68,0,urgent,40,98.4,8,96,4,0
+1221,Traumatic Brain Injury,27,1,elective,127,100.8,7,88,13,1
+1222,Stroke,46,0,emergency,108,98.4,6,85,13,1
+1223,Shock,79,0,emergency,49,100,11,89,14,1
+1224,Stroke,67,0,emergency,56,99.8,6,90,10,1
+1225,Traumatic Brain Injury,77,0,urgent,106,97.7,9,90,12,1
+1226,Stroke,65,0,emergency,51,99.5,6,93,4,0
+1227,Stroke,61,0,emergency,103,100.9,7,88,14,1
+1228,Sepsis,49,0,elective,121,98.5,14,87,2,1
+1229,Shock,74,1,elective,135,97.7,12,93,0,1
+1230,Shock,40,1,emergency,56,99.3,13,86,4,1
+1231,Shock,30,1,urgent,56,99.8,14,97,15,0
+1232,Shock,47,0,emergency,116,99.6,8,85,15,1
+1233,Sepsis,48,1,elective,48,100.1,7,86,13,1
+1234,Ruptured Brain Aneurysm,47,1,urgent,118,99.4,15,100,5,1
+1235,Stroke,38,0,elective,109,97.7,10,88,0,1
+1236,Sepsis,39,1,elective,57,100.2,15,91,5,1
+1237,Stroke,75,0,urgent,53,98.8,15,93,5,1
+1238,Stroke,70,0,urgent,121,99.7,15,97,8,1
+1239,Stroke,63,1,emergency,137,99.4,13,94,10,0
+1240,Traumatic Brain Injury,39,1,elective,125,99,7,91,14,1
+1243,Stroke,37,1,elective,60,100.6,10,87,10,1
+1244,Sepsis,43,1,elective,135,98.6,7,99,6,0
+1246,Traumatic Brain Injury,56,0,elective,42,98.9,8,87,7,1
+1247,Stroke,19,0,emergency,113,98.2,12,98,2,1
+1248,Stroke,18,0,urgent,48,99,9,95,4,1
+1249,Stroke,59,1,elective,51,97.7,8,97,10,0
+1251,Traumatic Brain Injury,70,0,elective,140,100.5,10,89,14,0
+1252,Traumatic Brain Injury,35,1,elective,52,100.7,14,86,1,0
+1253,Sepsis,62,0,urgent,108,100.4,12,95,14,0
+1254,Shock,28,1,elective,47,99.4,9,91,1,1
+1255,Traumatic Brain Injury,30,0,urgent,105,100.8,9,97,3,0
+1256,Shock,47,0,elective,114,98.6,14,95,1,1
+1257,Sepsis,34,1,emergency,40,100.5,8,96,6,0
+1258,Shock,33,0,emergency,127,98.1,7,96,10,0
+1259,Sepsis,34,0,emergency,48,99.4,11,94,0,0
+1260,Shock,29,0,emergency,46,99.9,8,85,0,0
+1261,Ruptured Brain Aneurysm,74,1,emergency,138,99,10,93,9,0
+1262,Ruptured Brain Aneurysm,43,1,urgent,134,100.6,14,92,0,0
+1263,Sepsis,69,0,emergency,132,99.2,11,100,2,1
+1264,Shock,79,1,elective,101,100.6,11,88,8,1
+1265,Stroke,60,1,emergency,110,98.5,14,94,1,0
+1266,Sepsis,28,0,elective,51,99.3,9,86,11,1
+1267,Ruptured Brain Aneurysm,29,0,urgent,138,97.9,11,100,10,1
+1268,Traumatic Brain Injury,76,1,urgent,50,99.5,13,91,14,0
+1269,Stroke,42,0,emergency,129,98,9,95,2,1
+1270,Ruptured Brain Aneurysm,35,1,elective,124,99.3,8,99,11,0
+1271,Traumatic Brain Injury,48,1,elective,128,99.4,6,89,3,1
+1272,Traumatic Brain Injury,44,0,elective,121,98.3,9,97,8,1
+1273,Shock,68,0,emergency,48,97.7,7,88,7,1
+1274,Sepsis,59,0,urgent,117,100.7,14,95,7,1
+1275,Traumatic Brain Injury,72,0,elective,41,98.9,6,86,9,1
+1276,Sepsis,34,1,elective,52,100.8,9,99,1,0
+1277,Sepsis,50,0,elective,105,99.7,11,100,13,0
+1278,Traumatic Brain Injury,36,0,elective,117,98.9,8,95,0,0
+1279,Ruptured Brain Aneurysm,46,0,elective,50,100.3,9,89,1,0
+1280,Sepsis,32,1,elective,100,100.7,10,91,12,1
+1281,Ruptured Brain Aneurysm,66,0,urgent,135,98.8,6,88,10,0
+1282,Ruptured Brain Aneurysm,48,1,elective,47,98.6,10,91,1,0
+1283,Stroke,41,1,elective,124,98.2,13,86,1,0
+1284,Traumatic Brain Injury,21,0,urgent,48,99.4,11,87,8,1
+1285,Sepsis,43,0,emergency,45,99.9,10,94,10,1
+1286,Stroke,24,1,elective,43,100.7,13,96,13,1
+1288,Traumatic Brain Injury,70,1,urgent,136,100.1,13,90,15,1
+1289,Ruptured Brain Aneurysm,20,1,emergency,115,98.2,12,91,2,1
+1290,Ruptured Brain Aneurysm,20,1,elective,128,100.1,9,94,5,0
+1291,Shock,39,1,emergency,101,100.4,15,95,9,1
+1292,Shock,33,0,urgent,47,100.8,15,87,6,0
+1293,Stroke,52,0,urgent,108,100.6,9,89,12,0
+1294,Stroke,41,0,emergency,103,98.2,11,85,14,1
+1295,Stroke,32,0,urgent,120,100.2,15,91,8,1
+1296,Traumatic Brain Injury,25,1,emergency,117,100.4,12,90,5,0
+1297,Traumatic Brain Injury,76,1,emergency,132,99.9,10,100,9,0
+1298,Ruptured Brain Aneurysm,53,1,elective,115,100.7,6,100,1,0
+1299,Sepsis,26,0,elective,54,100.2,11,99,5,1
+1301,Ruptured Brain Aneurysm,25,1,elective,46,97.8,7,90,14,1
+1303,Stroke,30,1,elective,44,100.6,14,88,6,0
+1304,Sepsis,39,0,emergency,49,98.2,9,93,13,0
+1305,Sepsis,36,0,emergency,56,98.8,6,94,7,1
+1306,Sepsis,33,0,elective,101,100,14,90,12,0
+1307,Ruptured Brain Aneurysm,46,0,urgent,118,99.7,15,96,13,1
+1308,Traumatic Brain Injury,66,1,urgent,110,100.3,9,85,3,1
+1309,Traumatic Brain Injury,76,1,urgent,57,99,12,94,14,0
+1310,Traumatic Brain Injury,56,1,emergency,119,99.3,9,96,12,1
+1311,Sepsis,62,0,emergency,46,100.4,7,98,10,0
+1312,Shock,34,1,urgent,52,99.7,11,86,8,1
+1313,Traumatic Brain Injury,51,0,emergency,47,98.5,12,86,2,1
+1314,Sepsis,48,1,elective,109,98.5,12,86,15,1
+1315,Traumatic Brain Injury,22,0,urgent,124,100.3,15,92,5,1
+1316,Sepsis,55,0,urgent,125,99.4,11,98,14,0
+1317,Sepsis,52,1,emergency,59,100,10,92,15,0
+1318,Traumatic Brain Injury,40,0,emergency,137,98.3,6,97,3,0
+1319,Sepsis,31,0,urgent,50,100,14,99,5,0
+1320,Ruptured Brain Aneurysm,24,0,urgent,109,99.3,12,92,8,0
+1321,Sepsis,53,0,elective,133,97.9,11,86,7,1
+1322,Shock,51,0,elective,43,100,9,91,9,1
+1323,Shock,52,0,elective,126,99.6,10,93,6,1
+1324,Sepsis,19,1,urgent,47,100.1,12,97,15,0
+1325,Ruptured Brain Aneurysm,41,1,emergency,122,98.5,13,93,7,1
+1326,Sepsis,58,1,emergency,57,97.7,6,90,12,1
+1327,Stroke,46,1,elective,48,98.6,12,95,9,0
+1328,Traumatic Brain Injury,74,0,urgent,55,99.3,6,90,12,0
+1329,Ruptured Brain Aneurysm,60,0,urgent,49,99.2,11,86,8,0
+1330,Shock,27,0,emergency,129,100.8,11,95,1,1
+1331,Stroke,73,1,urgent,103,99.8,7,86,14,0
+1332,Stroke,39,1,emergency,123,98.6,8,93,12,0
+1333,Sepsis,62,0,elective,57,100.7,12,87,4,0
+1334,Shock,41,1,emergency,58,98,8,90,4,1
+1335,Traumatic Brain Injury,30,1,emergency,127,99.5,7,96,7,1
+1336,Shock,44,1,urgent,100,100,8,94,1,1
+1337,Stroke,45,1,urgent,124,98.1,9,86,11,0
+1338,Shock,50,1,urgent,104,99.8,14,89,10,1
+1339,Stroke,58,0,urgent,55,98,11,95,5,0
+1340,Sepsis,64,0,emergency,115,99.6,6,93,8,1
+1341,Shock,77,0,elective,114,100.5,8,87,13,1
+1342,Stroke,31,1,emergency,58,99.3,9,88,0,1
+1343,Shock,69,0,emergency,40,98.1,12,97,2,1
+1344,Stroke,56,1,urgent,44,100.8,13,95,10,0
+1345,Ruptured Brain Aneurysm,22,1,urgent,41,98.3,12,89,8,0
+1346,Sepsis,72,0,emergency,60,100.4,12,96,5,1
+1347,Shock,74,1,urgent,120,98.9,10,98,15,1
+1348,Ruptured Brain Aneurysm,46,1,elective,110,99.6,8,90,11,0
+1349,Stroke,29,0,emergency,56,100.5,10,100,12,0
+1350,Stroke,57,1,elective,128,99.8,11,97,1,0
+1351,Stroke,71,0,urgent,55,100.7,8,97,7,1
+1352,Ruptured Brain Aneurysm,75,1,emergency,40,99.4,10,93,10,0
+1353,Sepsis,66,0,urgent,112,99.3,6,100,1,1
+1354,Sepsis,23,1,urgent,127,100.8,6,91,2,1
+1355,Shock,58,0,elective,55,98.5,12,100,15,0
+1356,Stroke,54,1,elective,50,100,11,97,10,1
+1357,Traumatic Brain Injury,62,0,urgent,124,97.9,7,91,6,1
+1358,Shock,65,1,urgent,107,99.9,6,91,10,0
+1359,Ruptured Brain Aneurysm,27,0,emergency,120,98.4,15,89,4,0
+1360,Stroke,37,0,emergency,45,100.7,8,95,12,0
+1361,Stroke,56,1,urgent,44,99.7,6,90,8,1
+1362,Shock,61,1,elective,103,98.8,15,99,5,0
+1363,Traumatic Brain Injury,28,1,elective,108,99,11,91,1,1
+1364,Shock,28,0,urgent,119,98.4,10,93,10,1
+1365,Sepsis,80,1,elective,51,99.8,10,99,15,0
+1366,Ruptured Brain Aneurysm,29,1,emergency,53,99.7,12,96,10,0
+1367,Ruptured Brain Aneurysm,54,0,elective,116,100.7,8,99,4,1
+1368,Stroke,41,1,urgent,52,98.2,10,88,7,0
+1369,Sepsis,58,0,urgent,46,98.8,6,95,10,1
+1370,Sepsis,52,0,emergency,57,98.9,15,85,4,0
+1371,Sepsis,64,0,elective,51,100.6,15,88,8,1
+1372,Traumatic Brain Injury,73,1,urgent,119,98.1,9,91,11,1
+1373,Stroke,57,1,urgent,52,100,14,89,8,1
+1374,Stroke,79,0,emergency,52,100.1,6,95,2,1
+1375,Shock,19,0,urgent,47,98.8,6,94,9,1
+1376,Sepsis,35,0,urgent,118,97.9,14,95,5,0
+1377,Sepsis,62,0,emergency,44,98.2,12,90,14,0
+1378,Traumatic Brain Injury,65,1,emergency,110,100.7,7,98,7,1
+1379,Shock,32,1,elective,111,98.8,7,97,6,1
+1380,Stroke,34,1,urgent,55,97.9,15,86,12,0
+1381,Stroke,47,1,elective,101,99.9,6,98,9,1
+1382,Traumatic Brain Injury,47,1,emergency,110,99.1,10,86,4,0
+1383,Shock,47,1,emergency,48,98.3,14,94,7,1
+1384,Traumatic Brain Injury,22,1,urgent,51,100.2,13,98,12,0
+1385,Stroke,28,1,urgent,118,97.8,14,89,7,1
+1386,Stroke,53,1,elective,42,98.2,11,89,0,0
+1388,Traumatic Brain Injury,52,1,elective,112,97.8,7,98,13,0
+1389,Stroke,59,0,emergency,42,99.9,6,96,9,0
+1390,Stroke,24,1,emergency,113,100.4,6,100,10,0
+1391,Traumatic Brain Injury,25,1,urgent,59,100,12,95,12,1
+1393,Shock,24,0,emergency,49,98.5,7,88,11,1
+1394,Sepsis,34,1,urgent,59,100,13,87,0,1
+1396,Shock,34,0,elective,101,99.7,13,85,4,1
+1397,Sepsis,55,1,emergency,103,100.9,13,99,5,1
+1398,Stroke,37,0,urgent,60,100.6,8,96,15,1
+1399,Stroke,42,1,urgent,60,100.4,15,85,0,1
+1400,Sepsis,46,1,elective,113,100.4,7,87,5,1
+1401,Traumatic Brain Injury,36,0,urgent,117,99,12,92,12,1
+1402,Ruptured Brain Aneurysm,56,0,urgent,102,100.3,6,87,5,0
+1403,Stroke,18,0,urgent,115,98.7,8,89,4,0
+1404,Shock,46,1,urgent,50,99.8,8,90,6,0
+1405,Traumatic Brain Injury,47,0,emergency,122,99,15,98,9,0
+1408,Sepsis,57,0,elective,119,99.8,15,95,5,1
+1409,Stroke,57,1,elective,43,97.8,11,86,4,1
+1410,Traumatic Brain Injury,36,0,urgent,51,98.5,10,91,12,1
+1411,Ruptured Brain Aneurysm,38,1,elective,102,97.8,7,93,7,1
+1413,Sepsis,29,1,elective,102,98.7,6,95,4,0
+1414,Ruptured Brain Aneurysm,38,1,urgent,127,99.4,12,89,14,1
+1415,Ruptured Brain Aneurysm,55,1,urgent,53,99.3,12,91,3,0
+1416,Ruptured Brain Aneurysm,80,1,urgent,112,100.3,6,91,12,1
+1417,Stroke,30,1,emergency,119,99.8,11,86,8,1
+1418,Traumatic Brain Injury,51,0,emergency,45,97.8,6,93,5,1
+1419,Stroke,34,1,emergency,44,98.4,10,92,8,1
+1420,Stroke,63,1,emergency,118,100.8,7,95,9,0
+1421,Stroke,36,1,urgent,137,100.1,13,86,4,1
+1422,Traumatic Brain Injury,20,1,emergency,113,98,6,98,7,1
+1423,Ruptured Brain Aneurysm,51,1,urgent,111,99.6,10,88,5,0
+1424,Stroke,33,0,urgent,140,99.1,14,91,8,0
+1425,Stroke,62,1,urgent,104,97.9,7,87,4,0
+1426,Ruptured Brain Aneurysm,79,0,emergency,55,98.2,10,94,2,1
+1427,Traumatic Brain Injury,18,0,emergency,48,100.6,15,94,2,1
+1429,Sepsis,77,0,urgent,42,98.6,6,97,14,0
+1430,Stroke,49,0,emergency,47,99.5,14,86,9,0
+1431,Sepsis,55,0,urgent,126,98.6,8,87,1,0
+1432,Stroke,57,0,emergency,60,100.9,6,89,12,1
+1433,Stroke,39,0,emergency,40,100.7,9,89,3,1
+1434,Ruptured Brain Aneurysm,48,1,urgent,134,99,10,100,13,0
+1435,Shock,24,0,emergency,101,100.6,11,90,15,0
+1436,Stroke,58,1,urgent,136,100.7,9,99,12,1
+1437,Stroke,41,1,urgent,135,97.8,9,99,15,0
+1438,Traumatic Brain Injury,30,0,urgent,113,99.5,14,90,7,1
+1440,Shock,77,0,emergency,139,98.6,8,85,4,1
+1441,Stroke,42,0,urgent,107,100.5,10,89,6,1
+1442,Ruptured Brain Aneurysm,76,1,elective,135,98.3,9,86,8,1
+1443,Traumatic Brain Injury,73,1,emergency,110,100.7,15,99,15,1
+1444,Sepsis,47,1,urgent,49,100.2,15,90,1,1
+1445,Stroke,61,1,elective,140,99.8,9,86,1,1
+1446,Traumatic Brain Injury,79,1,elective,114,98.1,9,91,3,1
+1447,Shock,21,0,emergency,57,98.5,10,88,9,1
+1449,Stroke,35,0,urgent,102,99.9,15,98,1,1
+1450,Traumatic Brain Injury,74,0,emergency,140,98.2,7,88,11,0
+1451,Shock,79,1,elective,46,98.3,12,98,11,0
+1452,Shock,66,0,elective,49,100.5,7,98,12,1
+1453,Traumatic Brain Injury,26,1,emergency,139,97.8,12,93,2,1
+1454,Shock,20,1,emergency,132,99.2,9,99,14,0
+1455,Stroke,46,0,elective,119,100.1,10,85,2,0
+1456,Stroke,36,0,urgent,57,100.2,15,96,14,1
+1458,Shock,77,1,elective,107,100.7,12,87,1,0
+1459,Shock,19,0,urgent,124,99,15,94,6,1
+1460,Sepsis,38,1,emergency,54,100.3,10,88,0,0
+1461,Traumatic Brain Injury,34,0,elective,139,99.4,7,89,13,1
+1462,Shock,55,1,emergency,111,99.8,9,98,7,0
+1463,Traumatic Brain Injury,79,1,urgent,126,98.5,13,93,5,0
+1464,Traumatic Brain Injury,72,1,emergency,40,99.5,14,97,10,1
+1465,Ruptured Brain Aneurysm,29,1,emergency,108,100.4,10,95,3,0
+1466,Sepsis,70,1,urgent,55,100.7,12,89,0,0
+1467,Traumatic Brain Injury,73,1,urgent,43,97.9,12,85,12,0
+1468,Stroke,53,1,emergency,109,98.5,13,87,14,0
+1469,Traumatic Brain Injury,55,0,elective,52,98,9,94,7,0
+1470,Traumatic Brain Injury,23,1,urgent,45,98.3,9,96,6,1
+1471,Ruptured Brain Aneurysm,68,1,emergency,49,99.2,9,85,10,1
+1472,Sepsis,57,1,emergency,44,100.2,13,98,1,1
+1473,Shock,79,1,elective,42,100.5,13,97,5,1
+1474,Ruptured Brain Aneurysm,79,1,elective,126,99.5,15,86,13,1
+1475,Traumatic Brain Injury,72,1,elective,46,100.9,11,94,10,0
+1476,Stroke,69,0,elective,116,98.3,9,92,10,0
+1477,Sepsis,74,1,emergency,58,99.9,8,86,2,0
+1478,Shock,36,1,emergency,119,99.6,8,85,3,0
+1480,Shock,23,1,elective,117,98.3,9,91,13,1
+1481,Stroke,20,1,emergency,119,100,12,100,5,0
+1482,Stroke,36,0,elective,49,99.2,12,87,7,1
+1483,Shock,55,0,emergency,50,100.1,14,85,3,1
+1484,Traumatic Brain Injury,28,0,emergency,140,98.7,7,93,12,1
+1485,Ruptured Brain Aneurysm,72,0,urgent,133,98.5,10,92,9,1
+1486,Ruptured Brain Aneurysm,73,0,urgent,121,100.5,10,100,5,0
+1487,Traumatic Brain Injury,63,1,emergency,140,99.9,11,87,11,0
+1488,Sepsis,47,1,emergency,53,99.8,7,89,12,1
+1489,Stroke,35,1,urgent,100,98.5,6,85,3,1
+1490,Stroke,78,0,emergency,126,100.7,14,91,9,1
+1491,Stroke,54,1,emergency,55,98.5,14,87,8,0
+1492,Stroke,39,0,emergency,129,98.7,11,91,3,1
+1493,Traumatic Brain Injury,46,1,elective,53,100.9,15,96,8,1
+1495,Stroke,55,1,urgent,122,98.2,14,94,10,1
+1496,Shock,22,1,urgent,105,98.4,11,98,0,1
+1497,Ruptured Brain Aneurysm,57,0,elective,56,100.8,7,86,15,1
+1498,Sepsis,66,0,elective,51,98.9,10,90,12,1
+1499,Stroke,60,0,urgent,43,97.8,11,86,14,0
+1500,Traumatic Brain Injury,75,0,emergency,49,97.9,15,89,3,1
+1501,Sepsis,42,1,emergency,134,98.1,9,97,11,1
+1502,Sepsis,38,1,emergency,114,99.1,8,88,11,0
+1503,Ruptured Brain Aneurysm,48,1,urgent,111,99,10,92,10,1
+1504,Ruptured Brain Aneurysm,36,1,emergency,45,99.6,7,97,13,0
+1505,Shock,60,0,urgent,56,98.2,10,96,1,0
+1506,Shock,45,1,elective,49,100.2,12,92,7,0
+1508,Traumatic Brain Injury,26,0,emergency,54,100.8,11,97,3,0
+1509,Traumatic Brain Injury,34,0,elective,140,100.1,11,94,14,1
+1510,Shock,45,0,emergency,59,100.4,12,95,12,1
+1511,Stroke,19,1,urgent,42,99.4,14,97,12,1
+1512,Shock,29,1,elective,119,99.3,12,88,11,0
+1513,Stroke,60,1,elective,57,100.2,7,86,2,1
+1514,Ruptured Brain Aneurysm,71,0,emergency,119,99.1,9,86,8,0
+1515,Sepsis,30,0,elective,125,100.8,12,94,10,0
+1516,Traumatic Brain Injury,28,0,emergency,41,99.2,9,87,3,1
+1517,Sepsis,64,0,elective,126,98.1,14,90,7,0
+1518,Stroke,64,0,emergency,112,99.3,6,97,12,0
+1519,Traumatic Brain Injury,49,0,urgent,49,99.9,12,97,9,1
+1520,Shock,49,1,emergency,54,97.8,14,98,11,0
+1521,Ruptured Brain Aneurysm,66,1,urgent,134,97.9,13,85,12,0
+1523,Shock,47,0,emergency,46,98.9,7,99,13,0
+1524,Traumatic Brain Injury,19,1,urgent,112,99.6,14,91,13,1
+1525,Stroke,79,0,urgent,44,99.5,6,100,15,0
+1526,Ruptured Brain Aneurysm,78,1,elective,127,100.1,8,99,5,0
+1527,Ruptured Brain Aneurysm,61,1,emergency,40,100.8,8,96,4,1
+1528,Shock,62,0,emergency,109,98.9,10,97,2,1
+1529,Shock,71,0,emergency,40,98.8,15,88,12,1
+1530,Stroke,28,1,elective,137,98.7,14,88,9,0
+1531,Stroke,44,0,emergency,108,100.6,13,91,15,1
+1532,Sepsis,68,0,elective,60,100,13,99,10,0
+1533,Traumatic Brain Injury,70,1,emergency,60,98.6,8,86,15,1
+1535,Ruptured Brain Aneurysm,69,0,elective,41,100,7,94,10,0
+1536,Ruptured Brain Aneurysm,79,1,urgent,116,100.8,12,85,1,1
+1537,Shock,30,0,elective,140,99.4,13,85,7,0
+1538,Traumatic Brain Injury,56,1,urgent,126,98.2,13,94,15,0
+1539,Ruptured Brain Aneurysm,20,0,urgent,132,99.1,8,86,0,0
+1540,Sepsis,23,1,elective,128,99.5,10,95,9,1
+1541,Shock,38,0,emergency,52,98,12,89,0,1
+1542,Ruptured Brain Aneurysm,49,0,elective,52,99,15,91,10,0
+1543,Traumatic Brain Injury,76,0,elective,113,97.9,7,92,4,1
+1544,Sepsis,59,1,emergency,44,98.2,15,85,13,0
+1545,Ruptured Brain Aneurysm,74,0,elective,57,99.2,11,88,8,0
+1546,Shock,63,0,urgent,44,99.7,7,100,1,1
+1547,Traumatic Brain Injury,26,0,urgent,132,100.8,13,85,15,1
+1548,Stroke,28,0,emergency,46,99.9,14,93,14,1
+1549,Sepsis,37,1,elective,58,99.2,14,86,14,0
+1550,Traumatic Brain Injury,40,1,elective,136,99.9,9,88,7,1
+1551,Ruptured Brain Aneurysm,27,0,emergency,111,99.6,15,90,8,0
+1552,Ruptured Brain Aneurysm,50,0,elective,53,100.5,12,89,7,1
+1553,Stroke,75,1,elective,138,97.8,10,91,9,0
+1554,Sepsis,51,0,emergency,136,100.3,13,92,7,0
+1556,Stroke,36,0,urgent,55,100.8,10,90,9,0
+1558,Traumatic Brain Injury,33,0,emergency,135,98.7,11,96,2,1
+1559,Sepsis,27,1,elective,139,100.8,6,93,13,1
+1560,Traumatic Brain Injury,28,0,elective,43,99.9,15,85,15,1
+1561,Traumatic Brain Injury,29,1,elective,50,99.5,14,85,12,1
+1562,Traumatic Brain Injury,69,0,emergency,112,98.7,9,85,6,1
+1563,Traumatic Brain Injury,46,1,urgent,46,98,11,96,10,0
+1564,Stroke,73,0,elective,122,99.5,12,96,7,1
+1565,Shock,32,0,elective,55,100.1,11,94,8,1
+1566,Shock,37,0,elective,131,98.8,12,86,10,0
+1567,Ruptured Brain Aneurysm,20,0,elective,112,97.9,9,98,11,0
+1568,Stroke,18,0,emergency,40,99.3,10,88,15,0
+1569,Ruptured Brain Aneurysm,56,0,elective,57,98.5,9,100,5,0
+1570,Sepsis,52,1,emergency,59,99.4,15,91,15,1
+1571,Stroke,44,0,emergency,51,99.5,14,100,5,1
+1572,Sepsis,67,1,emergency,121,98.2,12,97,11,0
+1573,Sepsis,77,0,emergency,50,98,7,92,8,0
+1575,Shock,63,0,elective,54,99.1,14,100,1,0
+1576,Stroke,34,0,elective,55,97.8,9,85,5,1
+1577,Sepsis,75,0,urgent,134,98.3,6,88,0,1
+1578,Sepsis,32,0,emergency,111,99.3,11,97,7,0
+1579,Ruptured Brain Aneurysm,51,0,emergency,123,99.8,13,90,2,0
+1580,Stroke,51,0,urgent,116,98,13,89,5,1
+1581,Sepsis,27,0,urgent,101,98.7,12,97,10,1
+1582,Ruptured Brain Aneurysm,44,1,elective,51,99.9,9,94,8,0
+1583,Shock,69,1,urgent,59,98.7,8,98,13,0
+1584,Ruptured Brain Aneurysm,64,0,emergency,104,98.6,8,98,7,1
+1585,Stroke,71,0,urgent,106,100.3,10,86,6,0
+1586,Ruptured Brain Aneurysm,25,0,emergency,114,98,14,90,6,1
+1587,Sepsis,38,1,emergency,46,98.1,15,86,7,1
+1588,Sepsis,29,1,emergency,123,99.2,11,96,15,0
+1591,Ruptured Brain Aneurysm,30,1,urgent,51,99.5,12,85,1,0
+1592,Traumatic Brain Injury,68,1,urgent,101,98,9,96,9,1
+1593,Stroke,51,1,elective,140,100.4,10,87,6,0
+1594,Traumatic Brain Injury,55,1,emergency,140,99.7,6,95,9,0
+1595,Ruptured Brain Aneurysm,58,1,urgent,60,100.6,14,97,10,0
+1596,Shock,36,1,emergency,56,98.3,9,91,11,0
+1597,Stroke,47,0,elective,125,100.6,7,94,5,1
+1598,Ruptured Brain Aneurysm,60,1,emergency,50,99.8,10,85,0,1
+1599,Shock,22,1,elective,47,98.5,15,93,0,0
+1600,Sepsis,31,0,urgent,42,100.8,6,86,1,0
+1601,Shock,47,1,elective,58,100.2,10,89,11,1
+1602,Traumatic Brain Injury,51,0,emergency,135,99.2,10,97,7,1
+1603,Sepsis,47,0,emergency,44,99.5,9,93,14,1
+1604,Stroke,32,1,urgent,42,98.6,12,95,12,1
+1605,Sepsis,42,0,urgent,42,100.7,9,97,6,1
+1606,Ruptured Brain Aneurysm,76,1,emergency,42,99.9,12,97,12,0
+1607,Stroke,63,0,urgent,46,99.9,14,92,11,1
+1608,Ruptured Brain Aneurysm,56,0,emergency,107,99.7,9,89,3,0
+1609,Shock,31,0,urgent,115,98.5,8,93,3,1
+1610,Shock,30,0,emergency,111,97.9,9,91,5,0
+1612,Stroke,26,1,emergency,49,98.3,9,96,0,1
+1613,Ruptured Brain Aneurysm,44,0,elective,120,97.8,9,90,0,0
+1614,Stroke,56,1,emergency,42,99.6,15,87,7,0
+1615,Ruptured Brain Aneurysm,76,0,emergency,107,99.3,15,96,13,0
+1616,Shock,45,1,emergency,109,99.5,10,95,10,1
+1617,Sepsis,70,0,emergency,58,99.5,9,93,3,0
+1618,Shock,19,1,elective,114,98.2,10,96,12,1
+1619,Shock,63,1,emergency,113,99.7,11,86,3,1
+1620,Ruptured Brain Aneurysm,66,1,urgent,106,99,8,89,12,0
+1621,Ruptured Brain Aneurysm,63,1,urgent,103,99.7,10,100,9,1
+1622,Sepsis,77,0,elective,53,98.8,8,92,10,1
+1624,Ruptured Brain Aneurysm,49,1,urgent,127,99.7,14,88,6,0
+1625,Traumatic Brain Injury,40,0,emergency,44,98.8,10,91,6,1
+1626,Shock,19,1,elective,137,100.5,6,94,0,0
+1627,Stroke,19,1,elective,105,99,12,88,11,0
+1628,Ruptured Brain Aneurysm,23,1,emergency,50,100.8,12,98,11,1
+1629,Traumatic Brain Injury,35,0,elective,57,99.7,8,100,2,1
+1630,Stroke,46,0,urgent,119,98.2,11,86,7,1
+1631,Ruptured Brain Aneurysm,75,0,elective,137,99.4,8,95,9,0
+1632,Traumatic Brain Injury,60,0,elective,120,100.3,7,88,8,1
+1633,Ruptured Brain Aneurysm,30,1,elective,41,100,7,88,0,0
+1634,Ruptured Brain Aneurysm,23,1,emergency,48,99.7,9,97,6,1
+1635,Stroke,26,0,urgent,115,98.4,15,94,0,0
+1636,Ruptured Brain Aneurysm,51,1,urgent,116,100.7,11,86,4,1
+1637,Sepsis,35,1,elective,48,100.9,9,100,6,0
+1638,Stroke,31,0,elective,50,98.1,9,85,0,0
+1639,Stroke,56,1,urgent,111,97.8,11,92,14,0
+1641,Traumatic Brain Injury,35,1,urgent,122,99.2,6,91,6,0
+1643,Stroke,60,0,elective,44,99,7,89,3,1
+1644,Ruptured Brain Aneurysm,50,1,urgent,130,98.4,9,90,4,1
+1645,Stroke,43,1,elective,42,98.8,14,99,14,0
+1646,Shock,65,1,emergency,135,100.2,9,91,14,0
+1648,Ruptured Brain Aneurysm,24,0,urgent,54,100.9,6,85,12,0
+1649,Stroke,56,1,urgent,60,99,10,95,11,0
+1650,Shock,23,1,urgent,46,98.7,10,97,9,0
+1651,Ruptured Brain Aneurysm,48,0,emergency,118,99.2,6,92,14,1
+1652,Shock,38,1,emergency,117,98,11,97,4,1
+1654,Sepsis,66,0,emergency,134,99.9,13,93,13,0
+1655,Sepsis,53,0,urgent,127,97.8,12,98,6,0
+1656,Shock,49,1,urgent,48,100,8,90,1,0
+1657,Shock,61,0,elective,57,100.2,7,88,4,0
+1658,Ruptured Brain Aneurysm,42,1,elective,57,99.2,9,90,1,0
+1660,Stroke,20,1,emergency,127,99.4,14,99,6,1
+1661,Ruptured Brain Aneurysm,79,1,emergency,52,97.7,7,96,7,0
+1662,Stroke,65,0,emergency,46,100.1,8,87,6,0
+1663,Shock,69,1,urgent,110,99.9,9,98,10,0
+1664,Stroke,50,1,urgent,118,99.6,11,97,9,1
+1665,Shock,29,0,elective,54,100,14,96,1,0
+1667,Stroke,79,1,emergency,54,99.7,7,96,13,0
+1668,Stroke,58,0,emergency,57,98.4,14,95,13,0
+1669,Sepsis,76,1,urgent,130,99.5,9,97,11,0
+1670,Stroke,79,1,elective,126,97.7,14,86,12,1
+1671,Ruptured Brain Aneurysm,54,0,urgent,105,99.9,13,97,5,0
+1672,Ruptured Brain Aneurysm,33,0,urgent,106,99.4,14,93,11,1
+1673,Shock,32,1,elective,51,99.5,7,100,11,0
+1674,Ruptured Brain Aneurysm,21,1,emergency,129,99.2,12,87,3,0
+1676,Traumatic Brain Injury,57,0,emergency,108,98.5,12,87,7,0
+1677,Traumatic Brain Injury,59,0,urgent,117,99.8,15,85,6,1
+1678,Ruptured Brain Aneurysm,76,1,urgent,46,97.8,11,91,1,0
+1680,Ruptured Brain Aneurysm,20,1,urgent,48,99.5,12,96,13,1
+1681,Ruptured Brain Aneurysm,71,1,urgent,42,100.6,6,99,14,0
+1682,Sepsis,33,0,urgent,40,97.9,12,100,4,1
+1683,Ruptured Brain Aneurysm,24,0,urgent,112,100.5,11,87,3,0
+1684,Traumatic Brain Injury,38,0,emergency,56,100.4,12,86,5,0
+1685,Ruptured Brain Aneurysm,72,0,elective,101,100,12,95,11,0
+1686,Stroke,67,1,emergency,102,98.3,8,90,15,1
+1687,Ruptured Brain Aneurysm,79,0,elective,118,99.7,14,88,5,1
+1688,Traumatic Brain Injury,60,1,urgent,42,99.4,9,98,3,0
+1690,Shock,58,0,elective,45,99.4,12,89,2,1
+1691,Sepsis,44,0,elective,108,98.3,14,98,8,1
+1692,Ruptured Brain Aneurysm,52,1,urgent,60,100.6,7,93,13,1
+1693,Stroke,20,1,elective,108,100,8,92,4,0
+1694,Stroke,24,1,elective,46,97.9,8,86,6,0
+1695,Stroke,63,1,elective,53,100.1,7,98,7,0
+1696,Ruptured Brain Aneurysm,44,0,elective,53,98.5,9,90,5,0
+1697,Sepsis,69,0,emergency,105,99.1,12,87,3,0
+1698,Ruptured Brain Aneurysm,40,0,elective,51,98,8,98,7,1
+1699,Traumatic Brain Injury,39,0,urgent,49,99.1,13,92,5,1
+1700,Ruptured Brain Aneurysm,56,1,emergency,47,98.9,12,98,7,1
+1701,Traumatic Brain Injury,59,1,elective,104,97.8,10,88,4,1
+1702,Shock,62,0,urgent,44,100.7,10,85,3,0
+1703,Shock,24,1,urgent,49,99.4,12,97,14,1
+1704,Shock,60,1,elective,116,100,11,87,3,0
+1705,Ruptured Brain Aneurysm,25,0,elective,56,100.1,6,90,15,1
+1706,Shock,24,1,elective,50,100,12,94,5,1
+1707,Stroke,38,1,elective,131,99.8,15,89,4,1
+1708,Stroke,61,1,emergency,131,99.2,11,94,1,0
+1709,Stroke,47,0,urgent,53,98.2,13,93,6,0
+1710,Traumatic Brain Injury,54,0,emergency,113,100.4,6,100,12,1
+1711,Shock,71,0,elective,58,99.8,11,98,1,1
+1712,Ruptured Brain Aneurysm,66,0,urgent,55,97.9,8,97,1,0
+1713,Sepsis,57,0,elective,109,98.8,11,97,9,1
+1714,Ruptured Brain Aneurysm,40,1,elective,114,98.6,12,95,10,0
+1715,Stroke,77,0,emergency,60,100.6,9,93,14,0
+1716,Stroke,74,1,urgent,42,98.3,9,93,2,0
+1717,Stroke,56,0,elective,59,98.1,12,98,3,1
+1718,Traumatic Brain Injury,67,0,emergency,55,100.2,8,96,7,1
+1719,Sepsis,55,1,emergency,127,100.4,7,87,4,1
+1720,Stroke,29,0,urgent,131,99.1,12,86,12,0
+1721,Traumatic Brain Injury,70,0,elective,129,97.9,13,89,4,1
+1722,Stroke,34,1,elective,130,99.7,15,93,2,1
+1723,Traumatic Brain Injury,57,1,urgent,119,99,15,89,4,1
+1724,Traumatic Brain Injury,30,1,emergency,138,99.8,8,93,5,0
+1725,Sepsis,57,1,elective,54,98.9,12,95,3,0
+1726,Ruptured Brain Aneurysm,23,1,urgent,46,98.8,8,89,10,1
+1727,Ruptured Brain Aneurysm,66,0,elective,56,100.9,15,86,7,0
+1728,Shock,39,1,elective,54,98.2,6,85,1,1
+1729,Sepsis,21,0,urgent,58,98.1,11,99,11,1
+1730,Ruptured Brain Aneurysm,27,1,emergency,40,100.4,6,100,8,1
+1731,Stroke,58,0,elective,41,98,8,97,9,1
+1732,Shock,75,1,emergency,43,98.2,14,87,2,0
+1733,Ruptured Brain Aneurysm,64,0,emergency,50,100.8,8,93,5,0
+1734,Traumatic Brain Injury,72,0,elective,102,98.8,6,87,3,1
+1735,Shock,50,0,emergency,107,100.5,8,92,0,0
+1736,Shock,53,1,emergency,118,99.2,9,99,5,1
+1737,Ruptured Brain Aneurysm,24,1,emergency,46,100.4,9,96,1,1
+1738,Ruptured Brain Aneurysm,78,0,urgent,136,99.3,15,99,9,1
+1739,Stroke,68,1,elective,115,98,8,93,10,0
+1740,Shock,41,1,elective,102,98.2,7,87,15,1
+1741,Sepsis,64,1,elective,53,99.2,9,97,9,0
+1743,Sepsis,23,1,elective,56,99.2,15,94,5,0
+1744,Sepsis,21,0,elective,131,99.8,14,96,11,0
+1745,Traumatic Brain Injury,18,1,urgent,140,100.2,6,88,7,0
+1746,Shock,41,0,elective,44,98.6,9,99,13,1
+1747,Traumatic Brain Injury,23,1,elective,107,98.1,6,100,12,1
+1748,Sepsis,78,0,elective,138,100.5,6,87,3,1
+1750,Sepsis,30,1,emergency,100,99.9,6,93,5,1
+1751,Ruptured Brain Aneurysm,30,1,urgent,131,98.6,15,90,10,0
+1752,Ruptured Brain Aneurysm,76,1,urgent,122,99.9,10,86,8,1
+1753,Ruptured Brain Aneurysm,25,0,urgent,118,99.5,6,92,11,1
+1754,Traumatic Brain Injury,34,0,emergency,60,98.4,9,88,8,1
+1755,Shock,69,0,elective,110,98.9,11,99,10,1
+1756,Shock,45,1,emergency,48,98.7,10,100,2,0
+1757,Stroke,32,1,elective,136,98.5,7,90,11,1
+1758,Stroke,41,0,urgent,135,100.5,9,90,1,0
+1760,Ruptured Brain Aneurysm,50,1,emergency,42,99.1,13,93,11,1
+1761,Traumatic Brain Injury,64,0,urgent,101,99.7,8,88,3,1
+1762,Sepsis,55,1,emergency,51,98.1,12,94,15,0
+1763,Traumatic Brain Injury,62,1,emergency,55,100,10,85,11,0
+1764,Shock,75,0,emergency,45,98,9,90,13,0
+1765,Ruptured Brain Aneurysm,34,1,emergency,124,100.4,11,96,14,1
+1766,Stroke,29,0,urgent,52,100,15,94,15,0
+1767,Traumatic Brain Injury,67,1,elective,129,99.6,14,96,11,0
+1768,Sepsis,75,0,urgent,133,98.2,7,91,5,1
+1769,Stroke,43,0,urgent,44,98.5,11,89,14,0
+1770,Stroke,34,0,urgent,46,99.2,7,87,0,0
+1771,Traumatic Brain Injury,48,1,elective,110,100.4,8,87,9,1
+1772,Traumatic Brain Injury,47,1,elective,139,99.7,14,85,0,0
+1773,Shock,38,1,urgent,40,99.4,8,98,2,1
+1774,Stroke,60,0,urgent,104,99.7,10,96,12,0
+1775,Ruptured Brain Aneurysm,20,1,urgent,42,99.7,13,95,6,1
+1777,Ruptured Brain Aneurysm,37,1,elective,46,100.2,14,93,11,1
+1778,Shock,51,1,urgent,52,100.6,14,100,8,1
+1779,Traumatic Brain Injury,76,1,emergency,52,98.3,11,97,1,0
+1780,Shock,69,0,elective,116,99.2,15,99,9,1
+1781,Traumatic Brain Injury,31,1,emergency,49,99.3,6,87,13,1
+1782,Ruptured Brain Aneurysm,74,1,emergency,50,98.5,7,91,14,1
+1783,Ruptured Brain Aneurysm,20,0,elective,54,100.8,10,89,2,0
+1784,Traumatic Brain Injury,47,1,urgent,127,98.2,9,98,7,1
+1785,Traumatic Brain Injury,68,0,emergency,116,99.7,7,93,5,1
+1786,Stroke,39,1,urgent,122,98.3,13,97,2,0
+1787,Stroke,54,0,urgent,125,100.5,8,87,10,0
+1788,Sepsis,71,1,urgent,57,98.8,12,86,10,1
+1789,Ruptured Brain Aneurysm,74,0,urgent,50,99.7,10,98,12,1
+1790,Shock,68,0,urgent,106,98.9,14,89,2,1
+1792,Shock,40,1,emergency,109,98.2,6,87,12,0
+1793,Stroke,57,1,emergency,128,99.2,11,97,10,0
+1794,Sepsis,75,1,emergency,109,100.7,8,96,8,1
+1795,Traumatic Brain Injury,30,0,emergency,102,100.5,9,99,14,1
+1796,Shock,65,1,urgent,124,100.1,10,99,8,1
+1797,Ruptured Brain Aneurysm,37,1,urgent,60,99.1,7,92,6,1
+1798,Ruptured Brain Aneurysm,71,1,urgent,49,100.4,6,92,12,1
+1799,Sepsis,58,1,urgent,53,98.3,13,91,12,1
+1800,Stroke,61,0,urgent,122,98.2,8,97,9,1
+1801,Traumatic Brain Injury,36,0,urgent,136,99.5,13,87,10,1
+1802,Ruptured Brain Aneurysm,47,0,elective,57,98.5,8,97,14,1
+1804,Shock,40,0,elective,44,100.4,6,85,0,0
+1805,Sepsis,29,0,urgent,103,99.2,7,89,15,0
+1806,Ruptured Brain Aneurysm,24,1,emergency,128,98.7,15,86,12,1
+1807,Shock,28,1,elective,56,99.2,12,86,6,1
+1808,Ruptured Brain Aneurysm,58,1,emergency,49,98.3,7,91,14,1
+1809,Sepsis,21,0,urgent,45,99.5,15,88,6,1
+1810,Sepsis,29,0,elective,124,98.1,9,95,9,0
+1811,Stroke,35,1,elective,47,98.5,13,94,13,1
+1812,Traumatic Brain Injury,51,0,elective,102,99.7,11,90,9,1
+1813,Stroke,77,0,elective,133,97.7,7,97,15,1
+1814,Shock,52,1,elective,43,99.1,10,96,4,1
+1815,Stroke,74,0,emergency,45,98.1,7,89,10,0
+1816,Ruptured Brain Aneurysm,23,1,emergency,127,99.7,10,97,14,1
+1817,Stroke,38,0,elective,53,98.4,7,91,6,1
+1818,Traumatic Brain Injury,19,1,urgent,59,99,12,98,2,1
+1819,Traumatic Brain Injury,80,1,urgent,120,100,9,93,3,1
+1820,Traumatic Brain Injury,37,1,urgent,42,99.8,11,91,6,0
+1821,Shock,63,0,emergency,60,99,15,91,6,1
+1823,Traumatic Brain Injury,51,0,elective,53,99.4,15,93,14,1
+1824,Traumatic Brain Injury,32,1,elective,120,98.9,10,100,13,1
+1825,Stroke,65,1,emergency,48,97.8,6,89,11,1
+1826,Sepsis,77,0,emergency,130,99.4,13,90,12,0
+1827,Ruptured Brain Aneurysm,20,1,emergency,44,99.6,7,91,6,0
+1828,Sepsis,23,1,elective,51,98.2,14,99,5,1
+1829,Sepsis,54,1,urgent,112,100.1,15,90,4,0
+1830,Shock,27,1,urgent,47,99.5,11,87,1,0
+1831,Stroke,27,0,elective,135,100.2,9,86,2,0
+1833,Ruptured Brain Aneurysm,73,0,urgent,134,98.2,11,92,1,1
+1834,Ruptured Brain Aneurysm,72,0,elective,44,98.3,10,93,12,1
+1835,Stroke,59,0,emergency,42,98.2,8,87,3,1
+1836,Stroke,64,0,urgent,109,100.6,12,86,14,0
+1837,Traumatic Brain Injury,69,1,urgent,126,98.3,15,97,10,0
+1838,Traumatic Brain Injury,68,0,elective,110,99.3,15,94,15,0
+1839,Stroke,80,0,elective,50,98.7,7,97,8,1
+1840,Shock,67,1,elective,115,98.1,12,86,9,1
+1841,Stroke,21,0,elective,103,100.3,13,85,12,0
+1842,Traumatic Brain Injury,80,0,elective,102,98.4,9,90,4,0
+1844,Traumatic Brain Injury,18,1,emergency,41,98.6,8,96,8,1
+1845,Sepsis,74,0,emergency,45,98.8,7,88,2,0
+1846,Shock,51,0,urgent,55,99.7,12,91,10,0
+1847,Traumatic Brain Injury,22,1,elective,50,100.6,10,97,8,1
+1848,Ruptured Brain Aneurysm,43,1,emergency,133,97.9,12,97,10,1
+1849,Traumatic Brain Injury,66,0,emergency,59,98.1,8,87,6,0
+1850,Traumatic Brain Injury,78,0,elective,56,100.2,12,96,10,0
+1851,Traumatic Brain Injury,27,1,elective,48,100.3,11,87,13,0
+1852,Traumatic Brain Injury,73,1,urgent,54,97.7,10,90,15,0
+1853,Ruptured Brain Aneurysm,51,1,emergency,55,98.9,12,94,7,1
+1854,Shock,49,0,elective,56,100.3,6,93,14,1
+1855,Ruptured Brain Aneurysm,65,1,emergency,104,98.6,7,98,0,1
+1856,Stroke,60,1,emergency,132,99.7,14,88,4,1
+1857,Stroke,22,0,elective,120,99.1,13,90,15,0
+1858,Traumatic Brain Injury,74,1,urgent,112,99.2,6,96,13,0
+1859,Shock,27,0,urgent,112,98.4,9,94,12,1
+1860,Traumatic Brain Injury,39,1,emergency,101,98.7,11,96,13,0
+1861,Sepsis,41,1,elective,48,98.9,15,88,14,0
+1862,Stroke,29,0,emergency,59,100,13,96,11,1
+1863,Traumatic Brain Injury,45,0,emergency,140,97.8,11,97,14,1
+1864,Ruptured Brain Aneurysm,41,1,emergency,43,99,13,90,9,0
+1865,Ruptured Brain Aneurysm,54,1,urgent,138,99.1,9,89,11,0
+1866,Traumatic Brain Injury,51,1,urgent,140,98.7,10,97,4,1
+1867,Ruptured Brain Aneurysm,25,0,elective,44,98.6,8,100,11,0
+1868,Ruptured Brain Aneurysm,49,0,emergency,105,99,9,92,6,1
+1869,Shock,74,0,elective,53,100.5,12,99,3,0
+1870,Sepsis,74,1,urgent,119,98.8,15,93,12,0
+1873,Stroke,18,0,elective,101,100.8,14,99,2,0
+1874,Shock,56,1,emergency,137,99.2,13,97,5,0
+1875,Sepsis,57,0,urgent,106,100.5,7,94,11,1
+1876,Ruptured Brain Aneurysm,36,1,urgent,49,99.7,8,92,8,1
+1877,Traumatic Brain Injury,57,1,emergency,56,98.7,8,95,3,1
+1878,Sepsis,67,0,elective,59,100.5,13,94,7,1
+1879,Shock,40,1,urgent,138,100.8,12,97,12,0
+1880,Stroke,67,1,emergency,59,98.7,6,93,1,0
+1881,Traumatic Brain Injury,68,1,emergency,112,100.6,7,90,1,1
+1882,Sepsis,67,0,emergency,126,100.4,11,92,1,0
+1883,Ruptured Brain Aneurysm,41,1,emergency,101,100.1,13,95,11,1
+1884,Stroke,66,0,emergency,53,99.7,9,87,7,1
+1885,Traumatic Brain Injury,70,0,urgent,107,98.5,12,99,13,0
+1886,Stroke,49,1,elective,47,100.1,13,98,15,1
+1887,Ruptured Brain Aneurysm,32,1,emergency,42,97.9,13,86,7,0
+1888,Ruptured Brain Aneurysm,23,1,urgent,49,98.9,13,92,11,0
+1889,Sepsis,49,0,elective,132,99.4,14,93,11,1
+1890,Sepsis,56,0,emergency,60,98.6,11,95,10,1
+1891,Sepsis,79,1,elective,134,100,11,96,11,1
+1892,Ruptured Brain Aneurysm,46,1,emergency,112,100.2,9,97,0,1
+1893,Traumatic Brain Injury,18,1,elective,44,98.2,15,87,11,1
+1894,Shock,62,1,elective,113,99.4,8,92,8,1
+1896,Sepsis,48,1,urgent,132,97.8,14,86,0,0
+1897,Traumatic Brain Injury,78,1,elective,48,100.1,14,97,10,0
+1898,Ruptured Brain Aneurysm,26,0,elective,51,98.2,12,100,8,1
+1899,Stroke,19,1,urgent,116,99.2,15,94,6,1
+1900,Shock,28,1,emergency,101,100.8,8,97,14,0
+1901,Traumatic Brain Injury,34,0,emergency,50,100.3,10,93,0,1
+1902,Ruptured Brain Aneurysm,70,1,elective,120,100.8,13,92,13,1
+1903,Shock,41,1,emergency,54,99.5,14,88,7,1
+1904,Stroke,48,0,emergency,51,100.3,11,97,6,1
+1905,Shock,60,1,elective,110,99.4,7,99,1,1
+1906,Shock,39,0,emergency,56,97.8,14,90,9,1
+1907,Sepsis,48,1,urgent,105,98.2,8,89,10,0
+1908,Sepsis,20,1,elective,54,100.5,13,86,7,0
+1909,Sepsis,79,1,elective,48,97.9,14,93,0,0
+1910,Sepsis,59,1,emergency,43,99.8,11,92,10,0
+1911,Ruptured Brain Aneurysm,39,0,emergency,113,98.7,15,86,7,0
+1912,Shock,53,0,emergency,57,98.4,15,87,9,0
+1913,Stroke,37,0,elective,43,98.8,12,93,14,1
+1914,Sepsis,29,1,emergency,114,97.8,6,95,14,1
+1915,Stroke,34,0,urgent,59,98.7,12,99,0,1
+1916,Shock,51,1,emergency,104,99.1,9,87,11,0
+1917,Stroke,80,0,urgent,126,100,12,96,13,1
+1919,Traumatic Brain Injury,55,0,emergency,50,97.7,11,96,3,0
+1920,Traumatic Brain Injury,27,1,elective,50,100.3,7,87,13,0
+1921,Shock,57,1,elective,57,98.5,10,98,9,1
+1922,Stroke,31,0,elective,127,99.3,14,86,8,0
+1923,Shock,23,0,elective,52,98.1,10,94,4,1
+1924,Traumatic Brain Injury,58,1,urgent,124,98.9,6,100,11,0
+1925,Shock,26,1,emergency,56,98.3,12,95,9,1
+1926,Shock,62,0,emergency,50,99.7,12,89,7,0
+1927,Shock,20,1,urgent,111,98.9,10,92,10,0
+1928,Stroke,46,0,emergency,45,99.6,9,86,4,1
+1929,Traumatic Brain Injury,41,0,elective,129,98,11,100,3,0
+1930,Traumatic Brain Injury,74,0,emergency,43,98.6,8,93,2,1
+1931,Ruptured Brain Aneurysm,28,0,elective,138,98.1,10,86,15,1
+1932,Sepsis,56,1,urgent,48,99.7,9,90,10,1
+1933,Traumatic Brain Injury,78,1,emergency,135,99.5,7,85,15,0
+1935,Traumatic Brain Injury,62,0,elective,46,99.4,12,94,8,1
+1936,Ruptured Brain Aneurysm,59,0,emergency,58,98.7,13,100,7,0
+1937,Ruptured Brain Aneurysm,45,0,urgent,51,97.8,6,99,1,0
+1938,Ruptured Brain Aneurysm,62,1,elective,134,98.6,10,92,12,0
+1939,Shock,22,1,urgent,109,99.5,6,87,4,1
+1940,Sepsis,23,1,urgent,132,100.8,7,96,2,0
+1941,Shock,56,0,elective,53,100.5,13,85,13,1
+1942,Stroke,25,0,elective,59,98.2,14,90,14,1
+1943,Shock,23,0,emergency,48,98.4,11,87,3,1
+1944,Sepsis,68,1,urgent,60,98.7,8,99,1,0
+1945,Sepsis,48,1,elective,45,100.1,14,87,6,1
+1946,Traumatic Brain Injury,74,1,urgent,113,100.1,13,87,6,0
+1947,Stroke,68,0,urgent,105,98.8,11,92,9,0
+1948,Stroke,32,0,elective,41,98.2,8,94,4,0
+1949,Traumatic Brain Injury,71,1,emergency,53,100.4,12,97,4,1
+1950,Ruptured Brain Aneurysm,24,0,urgent,51,100.6,14,89,0,1
+1951,Sepsis,59,0,emergency,116,100.5,15,92,11,1
+1952,Shock,42,0,emergency,140,98.7,8,85,13,1
+1953,Sepsis,31,1,urgent,105,100,10,95,3,1
+1954,Stroke,56,1,emergency,59,99.2,8,85,7,1
+1956,Ruptured Brain Aneurysm,68,0,urgent,41,98.5,10,87,13,1
+1957,Ruptured Brain Aneurysm,37,0,emergency,50,100.6,14,92,6,0
+1958,Shock,34,0,urgent,46,100.7,14,88,2,0
+1959,Traumatic Brain Injury,63,0,emergency,136,98.5,12,100,13,1
+1960,Ruptured Brain Aneurysm,40,0,emergency,44,99,15,89,11,0
+1961,Sepsis,80,0,elective,60,99.1,14,96,12,0
+1962,Shock,33,1,urgent,137,99.5,10,97,13,0
+1963,Sepsis,53,0,urgent,46,100.7,6,94,6,0
+1965,Traumatic Brain Injury,74,1,emergency,52,98.7,11,95,10,0
+1967,Shock,50,0,urgent,48,98.4,8,87,6,0
+1968,Shock,51,0,urgent,49,100.4,13,98,15,0
+1969,Shock,77,1,elective,108,99.1,9,89,2,0
+1970,Stroke,79,1,urgent,52,100.5,14,87,5,0
+1971,Stroke,61,0,elective,47,100,13,93,8,1
+1972,Stroke,49,1,emergency,103,100.8,11,90,10,1
+1974,Stroke,70,1,emergency,107,100.8,15,91,12,0
+1975,Shock,49,1,emergency,58,98.2,6,99,6,0
+1976,Ruptured Brain Aneurysm,51,0,urgent,137,100.3,9,85,14,0
+1977,Ruptured Brain Aneurysm,22,1,elective,114,98.4,6,94,3,0
+1978,Ruptured Brain Aneurysm,80,0,urgent,56,99.5,12,85,2,1
+1979,Traumatic Brain Injury,57,0,emergency,118,99.5,8,91,1,1
+1980,Sepsis,63,0,elective,114,97.9,15,95,7,0
+1981,Sepsis,75,0,urgent,123,100.6,12,97,14,0
+1982,Shock,75,1,emergency,116,100.6,14,89,6,0
+1983,Traumatic Brain Injury,58,0,urgent,140,100.5,9,89,11,1
+1984,Sepsis,80,0,elective,53,100.9,12,96,7,0
+1985,Stroke,64,1,urgent,60,98.7,12,96,5,0
+1986,Ruptured Brain Aneurysm,67,0,urgent,46,99.8,11,94,15,1
+1988,Shock,43,0,urgent,53,99.4,10,96,12,1
+1989,Traumatic Brain Injury,54,1,urgent,127,100.6,7,92,4,0
+1990,Shock,42,1,emergency,52,98.9,8,98,0,1
+1991,Shock,45,1,elective,120,99.8,13,99,2,1
+1992,Shock,67,1,emergency,120,99.3,14,89,4,1
+1993,Traumatic Brain Injury,49,0,elective,138,99.5,7,95,0,0
+1994,Stroke,56,0,elective,55,100.7,13,97,15,0
+1995,Shock,42,1,elective,139,99.2,6,85,0,0
+1996,Ruptured Brain Aneurysm,42,1,urgent,100,98.7,9,97,9,1
+1997,Shock,80,1,elective,53,98.9,14,92,8,1
+1998,Ruptured Brain Aneurysm,59,0,emergency,46,99.3,15,97,5,0
+1999,Sepsis,22,0,elective,127,100,6,91,6,0
+2000,Ruptured Brain Aneurysm,32,1,urgent,45,98.7,11,90,11,0
+2001,Sepsis,64,0,urgent,54,100,12,88,4,0
+2002,Traumatic Brain Injury,64,0,elective,116,100.4,8,85,5,1
+2003,Traumatic Brain Injury,24,0,urgent,42,99,9,94,5,1
+2004,Sepsis,56,0,emergency,54,99.3,8,91,13,1
+2005,Sepsis,63,0,elective,44,98.9,10,95,0,1
+2006,Sepsis,24,1,urgent,59,100.6,6,86,12,0
+2007,Traumatic Brain Injury,58,0,emergency,49,98.4,12,87,4,0
+2008,Stroke,46,0,emergency,130,100.1,15,89,0,0
+2009,Ruptured Brain Aneurysm,22,1,urgent,56,99.2,7,92,12,1
+2010,Stroke,23,1,elective,54,100.7,13,92,15,1
+2011,Shock,34,1,emergency,106,97.9,10,85,2,1
+2012,Stroke,38,0,elective,112,99.9,14,93,12,1
+2013,Traumatic Brain Injury,18,0,urgent,137,99.6,13,94,3,0
+2014,Traumatic Brain Injury,57,0,emergency,46,98.7,15,86,15,0
+2015,Sepsis,51,0,urgent,137,98.7,6,90,4,1
+2016,Traumatic Brain Injury,49,0,urgent,125,98.2,8,89,13,1
+2017,Traumatic Brain Injury,61,1,urgent,60,100.6,12,91,0,1
+2018,Sepsis,41,0,elective,41,97.8,15,96,4,1
+2019,Shock,59,0,elective,118,100.7,13,96,5,0
+2020,Sepsis,58,0,elective,55,100,6,97,13,0
+2021,Stroke,33,0,emergency,47,99.4,10,91,3,0
+2022,Shock,47,1,emergency,105,97.7,7,95,5,1
+2023,Shock,69,0,emergency,111,99.8,12,100,8,0
+2024,Sepsis,37,1,emergency,106,99.6,7,97,12,0
+2025,Stroke,49,1,emergency,103,98,14,90,12,1
+2026,Stroke,24,0,urgent,118,98.2,10,93,5,0
+2027,Traumatic Brain Injury,64,0,urgent,52,99.3,10,94,3,1
+2028,Shock,73,1,elective,104,100.4,10,89,9,1
+2029,Ruptured Brain Aneurysm,44,1,elective,57,100.3,12,90,12,1
+2030,Stroke,34,0,emergency,51,100.3,10,100,15,1
+2031,Stroke,73,1,elective,110,100.3,15,100,1,1
+2032,Ruptured Brain Aneurysm,41,0,urgent,116,98.1,6,91,1,1
+2033,Traumatic Brain Injury,73,1,urgent,60,100.7,15,91,11,0
+2034,Stroke,18,0,emergency,47,100.5,8,87,7,1
+2035,Traumatic Brain Injury,57,1,emergency,51,99.5,10,85,3,1
+2036,Stroke,32,1,elective,50,99.1,13,96,6,1
+2037,Sepsis,61,0,urgent,51,99.4,13,92,13,1
+2039,Traumatic Brain Injury,50,0,elective,51,97.8,13,86,15,0
+2040,Ruptured Brain Aneurysm,77,1,elective,59,99,6,96,11,1
+2041,Stroke,51,1,emergency,56,97.8,13,95,7,0
+2042,Stroke,42,0,emergency,103,100,14,90,15,1
+2043,Shock,52,0,urgent,110,98.1,15,98,13,1
+2044,Shock,47,0,elective,115,98.3,10,86,1,0
+2045,Traumatic Brain Injury,68,1,urgent,105,98.1,8,96,9,0
+2046,Ruptured Brain Aneurysm,59,0,emergency,119,100.4,6,89,3,1
+2047,Stroke,31,0,emergency,53,99.4,7,92,12,0
+2048,Ruptured Brain Aneurysm,44,1,elective,121,100.6,9,96,13,0
+2049,Shock,77,1,elective,104,100.2,8,91,11,1
+2050,Shock,22,0,urgent,108,98.5,8,91,10,1
+2051,Shock,42,0,urgent,60,99.4,14,94,3,1
+2052,Ruptured Brain Aneurysm,37,1,emergency,49,99.5,8,86,4,1
+2053,Traumatic Brain Injury,37,1,emergency,50,97.9,12,91,0,1
+2054,Traumatic Brain Injury,53,1,emergency,55,99.1,7,99,5,1
+2055,Shock,59,1,emergency,49,97.9,7,93,13,0
+2056,Ruptured Brain Aneurysm,70,0,urgent,42,100.4,12,85,4,0
+2057,Traumatic Brain Injury,56,1,elective,56,99.4,14,87,0,0
+2058,Stroke,27,1,emergency,117,99.9,10,86,10,1
+2059,Traumatic Brain Injury,79,0,elective,111,100.9,10,86,5,0
+2060,Ruptured Brain Aneurysm,32,1,urgent,137,99.1,9,96,14,1
+2061,Sepsis,55,0,elective,60,98.5,15,100,4,0
+2062,Sepsis,32,0,emergency,40,99.4,8,97,7,0
+2063,Traumatic Brain Injury,70,0,emergency,113,98.4,12,95,3,0
+2064,Sepsis,52,1,urgent,115,98.5,15,98,4,0
+2065,Stroke,63,0,urgent,107,98.6,10,94,10,1
+2066,Traumatic Brain Injury,34,1,urgent,52,98.4,9,98,14,1
+2067,Stroke,37,0,emergency,54,98.2,13,99,11,0
+2068,Stroke,65,1,elective,55,100.1,7,100,11,1
+2069,Ruptured Brain Aneurysm,37,0,urgent,108,98.7,6,92,13,0
+2070,Ruptured Brain Aneurysm,18,1,elective,102,100.8,8,94,3,1
+2071,Stroke,18,0,elective,60,98.4,8,91,1,1
+2073,Shock,28,1,emergency,50,100.7,14,96,13,1
+2074,Stroke,79,0,urgent,48,98.9,12,86,6,0
+2075,Sepsis,27,0,elective,100,98.3,13,93,14,1
+2076,Stroke,47,0,urgent,114,98.6,15,87,6,1
+2077,Shock,32,0,emergency,105,99.6,15,91,11,0
+2078,Sepsis,32,0,emergency,57,97.8,10,88,6,0
+2079,Stroke,23,1,emergency,56,99.4,13,99,7,1
+2080,Sepsis,19,1,emergency,42,97.7,8,91,4,1
+2081,Sepsis,47,0,urgent,59,98.5,11,91,8,1
+2082,Stroke,54,0,emergency,102,98.3,10,92,11,1
+2083,Shock,68,0,emergency,55,99.5,15,87,10,1
+2084,Traumatic Brain Injury,35,0,elective,58,100.2,9,89,12,0
+2085,Shock,58,0,emergency,54,100.7,14,88,11,0
+2086,Sepsis,37,0,emergency,130,98.6,14,89,8,1
+2087,Stroke,76,1,emergency,107,99.5,11,90,13,0
+2089,Shock,31,0,elective,125,99.8,10,89,13,0
+2090,Stroke,54,1,emergency,51,98.9,15,93,9,0
+2091,Shock,37,1,urgent,50,98.8,8,85,13,0
+2092,Sepsis,32,0,emergency,102,98.4,9,87,12,0
+2093,Sepsis,29,1,elective,101,99.9,9,96,13,0
+2094,Traumatic Brain Injury,77,1,emergency,107,100.3,13,99,2,1
+2095,Sepsis,37,1,elective,119,97.7,12,99,12,0
+2096,Stroke,78,1,emergency,113,100.6,11,100,2,1
+2097,Shock,57,0,urgent,44,100.7,15,98,14,0
+2098,Traumatic Brain Injury,39,1,emergency,115,100.2,13,85,12,1
+2099,Traumatic Brain Injury,72,1,urgent,128,100.4,9,97,6,0
+2100,Traumatic Brain Injury,33,1,urgent,125,99.3,7,87,10,0
